@@ -1,5 +1,2 @@
-pip install random 
-pip install nltk 
-pip install numpy 
-pip install torch 
-pip install tensorflow 
+this bot will say greeting and response to our basic cofee ordering payment questions
+
