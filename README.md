@@ -1,2 +1,5 @@
-this bot will say greeting and response to our basic cofee ordering payment questions
-
+pip install nltk 
+pip install torch
+pip install tensorflow 
+pip install random 
+pip install json 
